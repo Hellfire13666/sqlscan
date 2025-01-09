@@ -1,4 +1,4 @@
-# sqlscan
+sqlscan
     A small and an efficent tool to detect sql injection vulnerabilities in a websites. Its a pretty simple tool just add urls and payloads file to the script 
     and it will scan for sql injection from your desire payloads.
     
